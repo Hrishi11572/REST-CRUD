@@ -1,2 +1,5 @@
 node_modules/
 .DS_Store
+MOCK_DATA.json
+package-lock.json
+test.txt
